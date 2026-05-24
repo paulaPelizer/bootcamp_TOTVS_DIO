@@ -24,10 +24,3 @@ Para contornar a indisponibilidade de APIs externas e focar na arquitetura de da
 ### 🚀 Tecnologias Utilizadas
 * **Python 3**
 * **Pandas** (Manipulação e análise de dados)
-
----
-
-## 🚀 Próximos Projetos
-*(Os próximos desafios e laboratórios do bootcamp da TOTVS serão adicionados nesta seção à medida que forem desenvolvidos!)*
-- [ ] Projeto 2: *Aguardando próximo desafio...*
-- [ ] Projeto 3: *Aguardando próximo desafio...*
